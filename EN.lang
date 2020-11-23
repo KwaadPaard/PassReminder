@@ -1,0 +1,10 @@
+#Mon Nov 23 20:53:32 EET 2020
+ENTER_SITE=Enter site address
+ENTER_LOGIN=Enter your login
+PASSWORD_SELECT=Do you want to generate random password? Press 'Y' and Enter to generate or any other key to write own.
+PASSWORD_LENGTH=How many symbols should password have?
+PASSWORD =Password
+MENU=\nProgram menu:\n1.Show all records.\n2.Add new record.\n3.Close the program.
+DEFAULT_TEXT=Choose operation by pressing menu number and pressing Enter\n
+ADD_SUCCESSFUL=Record successfully added
+USERS_EMPTY=No records were entered
